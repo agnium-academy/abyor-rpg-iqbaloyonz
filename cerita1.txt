@@ -1,6 +1,12 @@
 Cerita 1,
 
 Banyak cerita yang akan aku ceritakan kepada teman-teman tentang pekerjaan awal yang aku jalani, 
-Aku sendiri tidak pernah berfikir dan bercita-cita menjadi programmer, tetapi semua kehidupan sudah Allah takdirkan dan tentukan. 
+Aku sendiri tidak pernah berfikir dan bercita-cita menjadi programmer, karena ketakutan terhadap koding.haha tetapi semua kehidupan sudah Allah takdirkan dan tentukan. 
 Mungkin disinilah jalan hidupku dimulai, Aku akan jalani semua dengan sepenuh hati.
-Dan pasti akan menjadi cita-cita terbaikku.
+Dan pasti akan menjadi cita-cita terbaikku dan pasti aku akan bisa.
+
+Happy Coding
+
+<?php
+echo "Hallo world";
+?>
